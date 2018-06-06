@@ -2,16 +2,17 @@ hola a todos los integrantes del grupo
 
 las siguientes etapas que deben cumplirse de forma sucesiva:
 
-1-Especificaci髇 de requisitos.
+1-Especificaci贸n de requisitos.
 
-2-Dise駉 del software.
+2-Dise帽o del software.
  
-3-Construcci髇 o Implementaci髇 del software.
+3-Construcci贸n o Implementaci贸n del software.
 
-4-Integraci髇.
+4-Integraci贸n.
 
-5-Pruebas (o validaci髇)
+5-Pruebas (o validaci贸n)
 
-6-Despliegue (o instalaci髇)
+6-Despliegue (o instalaci贸n)
 
 7-Mantenimiento.
+hola soy ulises
